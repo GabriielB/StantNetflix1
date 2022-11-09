@@ -1,4 +1,4 @@
-# StantNetflix1
+# StantNetflix
 
 ## Layout principal 
 Utilizei como forma principal de layout ReclyclerViews, uma principal em formato vertical e outras 4 dentro dessa principal em formato horizontal para simular
